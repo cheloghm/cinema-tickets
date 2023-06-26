@@ -1,5 +1,5 @@
 # cinema-tickets
-The solution to the cinema tickets coding exercise.
+The solution to the cinema tickets coding exercise is implemented in JavaScript.
 
 ##Cinema Ticket Service
 This is a simple solution to model a cinema ticket service. The ticket service validates, calculates prices and processes purchases for cinema tickets.
